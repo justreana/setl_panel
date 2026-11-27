@@ -1,2 +1,2 @@
-Инвестиционная панель для участия в кейс-чемпионате от Setl Group
-Подробная планировка этажей https://justreana.github.io/setl_plan/
+- Инвестиционная панель для участия в кейс-чемпионате от Setl Group https://justreana.github.io/setl_panel/
+- Подробная планировка этажей https://justreana.github.io/setl_plan/
